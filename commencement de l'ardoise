@@ -1,0 +1,24 @@
+# Créé par tony.denis1, le 19/10/2023 en Python 3.7
+from tkinter import *
+from turtle import *
+
+
+fenetre=Tk()
+fenetre.title("Ardoise Magique")
+fenetre.geometry("400x200")
+
+def movement():
+
+
+
+
+
+
+
+
+
+
+u.bind("<Up>",action_clic)
+d.bind("<Down>",action_click)
+l.bind("<Left>",action_cliq)
+r.bind("<Right>",action_clicks)
