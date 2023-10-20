@@ -1,4 +1,4 @@
-# Créé par tony.denis1, le 19/10/2023 en Python 3.7
+
 from tkinter import *
 from turtle import *
 
